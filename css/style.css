@@ -14,19 +14,13 @@
 .header {
     background-color: #f00;
 }
-.main {
+.main__content__item--1,
+.main__content__item--2 {
+    background-color: #0f0;
+    color: #011;
 }
-    .main__content {
-    }
-        .main__content__item--1,
-        .main__content__item--2 {
-            background-color: #0f0;
-            color: #011;
-        }
-    .main__sidebar {
-    }
-        .main__sidebar__item--1,
-        .main__sidebar__item--2,
-        .main__sidebar__item--3 {
-            background-color: #00f;
-        }
+.main__sidebar__item--1,
+.main__sidebar__item--2,
+.main__sidebar__item--3 {
+    background-color: #00f;
+}
